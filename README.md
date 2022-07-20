@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hock&color=000000&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B;Hello+%F0%9F%91%8B+;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B;%D0%9F%D1%80%D1%8B%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BD%D0%B5+%F0%9F%91%8B;hallo+%F0%9F%91%8B;bonjour+%F0%9F%91%8B;Salam+%F0%9F%91%8B;P%C3%ABrsh%C3%ABndetje+%F0%9F%91%8B;%E1%88%B0%E1%88%8B%E1%88%9D+%F0%9F%91%8B;Witam+%F0%9F%91%8B;%D0%9A%D0%B0%D0%B9%D0%B0%D0%BB%D0%BB%D0%B0+%F0%9F%91%8B)
+<picture>
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=hock&color=ffffff&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B;Hello+%F0%9F%91%8B+;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B;%D0%9F%D1%80%D1%8B%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BD%D0%B5+%F0%9F%91%8B;hallo+%F0%9F%91%8B;bonjour+%F0%9F%91%8B;Salam+%F0%9F%91%8B;P%C3%ABrsh%C3%ABndetje+%F0%9F%91%8B;%E1%88%B0%E1%88%8B%E1%88%9D+%F0%9F%91%8B;Witam+%F0%9F%91%8B;%D0%9A%D0%B0%D0%B9%D0%B0%D0%BB%D0%BB%D0%B0+%F0%9F%91%8B" media="(prefers-color-scheme: dark)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=hock&color=000000&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B;Hello+%F0%9F%91%8B+;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B;%D0%9F%D1%80%D1%8B%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BD%D0%B5+%F0%9F%91%8B;hallo+%F0%9F%91%8B;bonjour+%F0%9F%91%8B;Salam+%F0%9F%91%8B;P%C3%ABrsh%C3%ABndetje+%F0%9F%91%8B;%E1%88%B0%E1%88%8B%E1%88%9D+%F0%9F%91%8B;Witam+%F0%9F%91%8B;%D0%9A%D0%B0%D0%B9%D0%B0%D0%BB%D0%BB%D0%B0+%F0%9F%91%8B"/>
+</picture>
 
 
 
